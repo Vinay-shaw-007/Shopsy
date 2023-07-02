@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopsy</string>
+    <string name="title_home">Home</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_todo_list">Todo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="product_image">Product Image</string>
+    <string name="gallery_detail">Gallery Detail</string>
+    <string name="gallery_image">Gallery Image</string>
+</resources>
